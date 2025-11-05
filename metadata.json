@@ -1,0 +1,5 @@
+{
+  "name": "Creative Prompt Generator",
+  "description": "A simple and elegant web application that uses the Gemini API to generate unique and inspiring creative prompts with the click of a button.",
+  "requestFramePermissions": []
+}
